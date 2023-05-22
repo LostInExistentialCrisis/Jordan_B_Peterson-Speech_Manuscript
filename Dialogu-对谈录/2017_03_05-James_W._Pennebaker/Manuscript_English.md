@@ -1,18 +1,14 @@
 
 
+# Exploring Expressive Writing, Word Use, and Education with Dr. James W. Pennebaker
+
+
+
 https://youtu.be/hJ4JEypNH2s
 
-这个视频是由约旦·彼得森和詹姆斯·潘纳贝克博士进行的一次对话，时长约为 1 个小时。以下是视频的主要内容和结构：
+This video presents a dialogue between James W. Pennebaker and Jordan B. Peterson, discussing topics such as language analysis, education, and credit accreditation. James W. Pennebaker shares his research findings in the field of language analysis and explores the challenges and possibilities of mass education dissemination and credit accreditation. The conversation also touches upon the speakers' perspectives on university education, teaching methods, and educational technology. This dialogue provides viewers with profound insights into the areas of language analysis and education, while exploring ways to enhance the dissemination of educational knowledge and the accreditation of learning achievements.
 
-1. 彼得森和潘纳贝克博士进行了简要的自我介绍和彼此的背景介绍。
-2. 彼得森介绍了他和他的团队开发的三种计算机化写作程序（“未来写作”、“过去写作”和“现在写作”），并谈到这些程序是如何受潘纳贝克博士的研究启发的。
-3. 潘纳贝克博士回答了彼得森关于他的研究成果的提问，重点是他在情感表达写作方面的研究，这个领域探索了写作和讲话如何帮助人们提高身体健康和工作表现。
-4. 彼得森和潘纳贝克博士讨论了情感表达写作的实际应用，包括在教育和工作场所中的应用，以及在治疗和帮助个人解决问题方面的应用。
-5. 他们还讨论了其他主题，如自由意志、人格心理学和个体差异，以及教育中的创新和改革。
-6. 最后，他们对话结束前回答了一些来自听众的问题。
-
-总的来说，这个视频通过对话的形式，探讨了写作和讲话对于身体健康和工作表现的影响，以及如何将这些研究成果应用到实际生活中。此外，视频还涉及了一些与教育和心理学相关的主题，以及对一些来自听众的问题的回答。
-
+---
 
 [Peterson]
 
